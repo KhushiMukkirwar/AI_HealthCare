@@ -1,6 +1,6 @@
 # AI Health Assistant Chatbot
 
-An **AI-powered Health Assistant Chatbot** developed as part of the **TechSaksham AICTE Internship on AI: Transformative Learning**.  
+An **AI-powered Health Assistant Chatbot**. 
 This chatbot uses **Hugging Face Transformers** and **Streamlit** to answer healthcare-related queries and provide preliminary medical advice.
 
 ## ✨ Features
